@@ -1,4 +1,4 @@
-# <one line to give the program’s name and a brief idea of what it does.> 
+# Nano-induced Lung Fibrosis Prediction (NILFP v1.0.0) is a Python package containing tools for predicting in vivo lung fibrosis using in vitro and in chemico data.
 # Copyright (C) <2023> <Yang Huang> 
 # This program is free software: you can redistribute it and/or modify it under the terms of the GNU General 
 # Public License as published by the Free Software Foundation, either version 3 of the License, or (at your 
