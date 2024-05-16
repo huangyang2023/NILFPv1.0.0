@@ -42,8 +42,13 @@ pip3 install -r requirements.txt
 - Click [***here***](https://github.com/huangyang2023/NILFPv1.0.0/releases/download/NILFPv1.0.0/NILFP.v1.0.0.zip) to download the ZIP file for the portable version of this package.
 - Unzip the ZIP file and enter the extracted folder.
 - Run *NILFP v1.0.0.exe*.
+### Typical Install Time on a *Normal* Desktop Computer
+No more than 120 seconds.
+
 # Instructions for Use
 ## How to Run the Software on Your Data
+### Expected Run Time for Demo on a *Normal* Desktop Computer
+No more than 60 seconds (excluding data input time).
 ### Lung Fibrosis Prediction
 ![](/images/LungFibrosis.gif)
 ### Inflammation Classification
